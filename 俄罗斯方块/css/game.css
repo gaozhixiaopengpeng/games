@@ -1,0 +1,33 @@
+#box{
+	margin:20px auto;
+}
+#box canvas{
+	margin-left: 400px;
+	float: left;
+}
+#box div{
+	margin-top: 200px;
+	float: left;
+}
+#box button:nth-child(1){	
+	margin-left: 20px;
+	width: 80px;
+	height: 40px;
+	line-height: 40px;
+	background: #aaa;
+	text-align: center;
+	border-radius: 5px;
+	float: left;
+}
+
+#box button:nth-child(2){
+	margin-left: -80px;
+	margin-top: 80px;
+	width: 80px;
+	height: 40px;
+	line-height: 40px;
+	background: #aaa;
+	text-align: center;
+	border-radius: 5px;
+	float: left;
+}

@@ -1,0 +1,48 @@
+/* CSS Document */
+/*重置样式表*/
+body, p, h1, h2, h3, h4, h5, h6, dl, dd{
+	margin:0;
+	font-size:12px;
+	font-family:"宋体";	
+	line-height:1;
+}
+body{
+	background:#fff;	
+}
+ul, ol{
+	list-style:none;
+	padding:0;
+	margin:0;	
+}
+li{
+	*vertical-align: top;
+}
+a{
+	text-decoration:none;
+	color:inherit;	
+}
+form{
+	margin:0;
+}
+input, fieldset, textarea, select, button{
+	padding:0;
+	margin:0;
+	border:none;
+	background:none;
+	vertical-align:top;
+	outline: none;
+}
+img{
+	border:none;
+	vertical-align:top;	
+}
+strong, b{
+	font-weight:normal;	
+}
+em, i{
+	font-style:normal;	
+}
+mark{
+	background:#fff;
+	color:inherit;	
+}
